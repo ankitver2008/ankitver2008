@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ankit Verma
-- 👀 I’m interested in Coding, programming, AL, ML
-- 🌱 I’m currently learning HTML, CSS
+- 👀 I’m interested in BSFI, ML & Data Science
 - 💞️ I’m looking to collaborate on web development, backend development
 - 📫 email me ankit.verma2010@outlook.com
 <!---
